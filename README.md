@@ -1,3 +1,8 @@
-### How to navigate my repos
 
-I work on multiple projects at a time. My pinned projects below show my research respositories, personal tools, and products. If you want to know more about my work be sure to visit [fernando.works](//fernando.works).
+### Fernando, design engineer.
+
+#### I craft websites, prototypes, and small apps for agencies, startups and small teams.
+
+---
+
+Portfolio at [fernando.works](https://fernando.works)
